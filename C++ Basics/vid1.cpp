@@ -37,5 +37,39 @@
 
 // Datatypes 
 
+#include<bits/stdc++.h>
+using namespace std;
 
+int main(){
+    // int 
+    int x = 10;
+    cout << "Integer x : " << x << '\n';
+
+    // long
+    long y = 100000;
+    cout << "Long y : " << y << '\n';
+
+    // long long
+    long long z = 1000000000;
+    cout << "Long Long z : " << z << '\n';
+
+    // float
+    float a = 4.555555;
+    cout << "Float a : " << a << '\n';
+
+    // double
+    double b = 14455.4444444444444;
+    cout << "Double b : " << b << '\n';
+
+    // string
+    string s = "hhgfds";
+    cout << "String s : " << s << '\n';
+
+    // char
+    char c = 'A';
+    cout<< "Char c : " << c << '\n';
+
+    
+    return 0;
+}
 
